@@ -1,4 +1,4 @@
-package entregas.Vina_Alejandro.Reto_006;
+package entregas.Vinas_Alejandro.Reto_006;
 
 import java.util.Scanner;
 
